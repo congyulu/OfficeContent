@@ -1,0 +1,12 @@
+E:\MainProject\source\XKW_ELiteInterface\ExtendOffice.Office\bin\Release\ExtendOffice.Office.dll
+E:\MainProject\source\XKW_ELiteInterface\ExtendOffice.Office\bin\Release\ExtendOffice.Office.pdb
+E:\MainProject\source\XKW_ELiteInterface\ExtendOffice.Office\obj\Release\ExtendOffice.Office.csprojResolveAssemblyReference.cache
+E:\MainProject\source\XKW_ELiteInterface\ExtendOffice.Office\obj\Release\ExtendOffice.Office.dll
+E:\MainProject\source\XKW_ELiteInterface\ExtendOffice.Office\obj\Release\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Release\ExtendOffice.Office.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Release\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\obj\Release\ExtendOffice.Office.csprojResolveAssemblyReference.cache
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\obj\Release\ExtendOffice.Office.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\obj\Release\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Release\Aspose.PDF.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Release\Aspose.PDF.xml

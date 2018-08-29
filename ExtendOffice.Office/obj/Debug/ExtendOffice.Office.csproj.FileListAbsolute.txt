@@ -1,0 +1,12 @@
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\SimpleOfficeReader-master\ExtendOffice.Office\bin\Debug\ExtendOffice.Office.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\SimpleOfficeReader-master\ExtendOffice.Office\bin\Debug\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\SimpleOfficeReader-master\ExtendOffice.Office\obj\Debug\ExtendOffice.Office.csprojResolveAssemblyReference.cache
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\SimpleOfficeReader-master\ExtendOffice.Office\obj\Debug\ExtendOffice.Office.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\SimpleOfficeReader-master\ExtendOffice.Office\obj\Debug\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Debug\ExtendOffice.Office.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Debug\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\obj\Debug\ExtendOffice.Office.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\obj\Debug\ExtendOffice.Office.pdb
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\obj\Debug\ExtendOffice.Office.csprojResolveAssemblyReference.cache
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Debug\Aspose.PDF.dll
+C:\Users\Cheer\Desktop\SimpleOfficeReader-master\ExtendOffice\ExtendOffice.Office\bin\Debug\Aspose.PDF.xml
